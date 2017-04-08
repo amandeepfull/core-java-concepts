@@ -1,0 +1,42 @@
+import java.io.*;
+class abc
+
+
+{
+
+public void display()
+{
+System.out.println("base display");
+}
+
+public void show()
+{
+System.out.println("base show");
+}
+}
+
+
+class xyz extends
+{
+
+
+public void display()
+{
+System.out.println("derived display");
+}
+
+public void show()
+{
+System.out.println("derived show");
+}
+}
+
+public class driver
+{
+public static void main(String arg[])
+
+{
+
+
+}
+}
